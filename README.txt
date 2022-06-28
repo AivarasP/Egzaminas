@@ -1,3 +1,5 @@
+Admin prisijungimo nėra.
+
 Prisijungimo Vardas :
  Aivaras
 Slaptazodis :
