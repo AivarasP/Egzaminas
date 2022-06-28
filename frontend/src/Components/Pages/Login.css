@@ -1,0 +1,25 @@
+.inputs{
+    background-color:rgba(0, 0, 0, 0.164);
+    display:inline-block;
+    padding: 8px 32px;
+    border:rgb(0, 0, 0) 2px solid;
+    width:40%;
+    margin: 4px 2px;
+    border-radius:6px;
+    color:white;
+}
+#log_btn {
+    background-color: transparent;
+    border: 1px solid rgb(164, 159, 159);
+    font-size: 14px;
+    color: #000000;
+    padding: 14px;
+    margin-top:8px;
+    width:20%;
+    cursor: pointer;
+    border-radius:20px;
+  }
+#log_btn:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+    transition-duration: 0.5s;
+}

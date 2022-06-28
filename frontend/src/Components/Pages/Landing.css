@@ -1,0 +1,20 @@
+.title{
+    color:rgb(90, 86, 86);
+}
+#buttons {
+    background-color: transparent;
+    border: 1px solid rgb(91, 3, 255);
+    font-size: 13px;
+    color: #000000;
+    padding: 10px 4px;
+    margin: 2px 2px;
+    cursor: pointer;
+    width:20%;
+    border-radius:10px;
+  }
+#buttons:hover{
+    background-color:  rgb(91, 3, 255,0.1);
+    color:#534c4c;
+    transition-duration: 0.8s;
+}
+
