@@ -31,7 +31,7 @@ private Long id;
 @Lob
 private String name;
 private String description;
-private Long isbn;
+private String isbn;
 private String imagePath;
 private Integer pages;
 @ManyToOne(fetch = FetchType.LAZY,optional = false)
